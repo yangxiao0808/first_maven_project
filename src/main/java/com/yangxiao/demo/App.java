@@ -20,6 +20,4 @@ public class App
     public static int abs(int a){
         return Math.abs(a);
     }
-
-
 }
